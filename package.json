@@ -1,27 +1,21 @@
 {
-  "name": "tele-finance_recorder-bot",
+  "name": "finance-bot-telegram",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "Telegram Finance Recorder Bot",
+  "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
-    "chartjs-node-canvas": "^5.0.0",
-    "dotenv": "^17.3.1",
+    "chartjs-node-canvas": "^4.1.7",
+    "dotenv": "^16.4.5",
     "exceljs": "^4.4.0",
-    "googleapis": "^171.4.0",
-    "node-cron": "^4.2.1",
-    "node-telegram-bot-api": "^0.67.0",
-    "pdfkit": "^0.17.2"
+    "googleapis": "^133.0.0",
+    "node-cron": "^3.0.3",
+    "node-telegram-bot-api": "^0.66.0",
+    "pdfkit": "^0.15.0"
+  },
+  "scripts": {
+    "start": "node bot.js"
   }
-}
-
-{
- "scripts": {
-   "start": "node bot.js"
- }
 }
