@@ -1,21 +1,21 @@
 {
-  "name": "finance-bot-telegram",
+  "name": "finance-recorder-bot",
   "version": "1.0.0",
-  "description": "Telegram Finance Recorder Bot",
+  "description": "Telegram finance recorder bot",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
   "dependencies": {
-    "chartjs-node-canvas": "^4.1.7",
     "dotenv": "^16.4.5",
     "exceljs": "^4.4.0",
     "googleapis": "^133.0.0",
     "node-cron": "^3.0.3",
     "node-telegram-bot-api": "^0.66.0",
-    "pdfkit": "^0.15.0"
+    "pdfkit": "^0.15.0",
+    "chartjs-node-canvas": "^4.1.7"
   },
-  "scripts": {
-    "start": "node bot.js"
+  "engines": {
+    "node": ">=18"
   }
 }
