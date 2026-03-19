@@ -25,7 +25,7 @@ const ADMIN_ID = 960957528;
 
 const credentials = JSON.parse(process.env.GOOGLE_SERVICE_ACCOUNT);
 
-// FIX newline issue
+// FIX newline
 credentials.private_key = credentials.private_key.replace(/\\n/g, "\n");
 
 const auth = new google.auth.GoogleAuth({
