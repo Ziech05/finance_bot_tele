@@ -7,14 +7,14 @@
     "start": "node bot.js"
   },
   "dependencies": {
+    "chart.js": "^3.9.1",
+    "chartjs-node-canvas": "4.1.6",
     "dotenv": "^16.4.5",
     "exceljs": "^4.4.0",
     "googleapis": "^133.0.0",
     "node-cron": "^3.0.3",
     "node-telegram-bot-api": "^0.66.0",
-    "pdfkit": "^0.15.0",
-    "chartjs-node-canvas": "^4.1.6",
-    "chart.js": "^4.4.0"
+    "pdfkit": "^0.15.0"
   },
   "engines": {
     "node": ">=18"
