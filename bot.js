@@ -67,7 +67,7 @@ async function ambilData() {
   return res.data.values || [];
 }
 
-console.log("Bot berjalan...");
+console.log(credentials.client_email);
 bot.sendMessage(ADMIN_ID, "Bot finance recorder berhasil dijalankan");
 
 bot.on("message", async (msg) => {
