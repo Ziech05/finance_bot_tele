@@ -24,7 +24,7 @@ const bot = new TelegramBot(process.env.BOT_TOKEN, { polling: true });
 const ADMIN_ID = 960957528;
 
 const auth = new google.auth.GoogleAuth({
-  keyFile: "sylvan-weft-489806-d3-570b7a6ca1df.json",
+  credentials: JSON.parse(process.env.GOOGLE_SERVICE_ACCOUNT),
   scopes: ["https://www.googleapis.com/auth/spreadsheets"],
 });
 
