@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sylvan-weft-489806-d3",
+  "private_key_id": "570b7a6ca1df2d6b18bebfa0aa31e79d284caef6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCq/S7t5u3F8Ai+\nUiTKnJSWN+bvGmbWwz9KClzgQJVTMt4Oj4ZY4l31DeM9R1d6tJMyV1uUb7VKQ5zr\nSlUw05EboDDMoGBtRrJykGresg9YAROm3Aj71aCorVxIv9ut5sVixZGoiFA+F5po\nUscgIl2TGcJ80QXjZDcUbZRs3c0twbwMdId24YkkO2cP6WaKa232ToXSfLsYKQ7i\nYvUqsBJxsdicCn/flRS+ANrS6l6VlbcLcop6O3GriQ6keGgj+XpPkjYaryYbV1lE\nDvutzdtZurTIdj/pVA16sVabkDMYk8cgQf+IdYQWNlVgdNxNlEn8IpLQ3EO/eqKq\nLNB9vin9AgMBAAECggEACniDH2/pBxo+GtOCa8LfaXyGYIV8HzIpJcJRMi1aR5RB\nm2AoILjJ+qftTrMX9QxqSCan1cTqc+AEk7cDVQBbrjamzl0S0pZF9rSHytfaDzBP\nsQPf6/YGxtWI5W6USAet9jC1jP299jNxUeqhxYK9OrUU3xpYszZPlilosar6dc8B\n8HVw4idMxPuOJJ1OmPiakNLYETbXau+WllzTqcg2T6W86Y9o/TAl60FjB5bRkjXn\nIwkvMz1m7/IojsJmPz/E64D5oAYhJqNBAgKR3Q458CN9K+cEnyOE4VlDxkiai7zr\nB6+IgP6wI+RrUqEcbVbJ1Ig1rEcB7fXwtpiraVJXeQKBgQDWbRQoC6TNphRuqL3d\nnBucY/Zi2CrPIHlkp070Q0PWuAvFGBD3CQpGnfyh6WVmEgV0uHoRrHIfr5Q9l1Q5\n5kwyoBqQN75w95sIhCgwsK7AUXaKKMFwCO3PnvTxwICPTgUg9lMpBYqIFX1NXru5\n533GbKNg8DvtIdrkaQsV4QammQKBgQDMJCDdfcGTyEEFHjcE7zEmXg8rWKtYV8Bo\nc6oIbJLeC2QNFfNYCI9Loq8gPlH6N+lp3G5CNJ+LFbR0Hc8R9QU/8xcQTVLV2J1S\nHsQt/yxHQy4HKg1JEKmZ7gi1k8Tf16sIrce5LsjI93xOgY9ZY0iPsRxnqwhE0hk3\nuMJM8arRBQKBgQCP82itvatk+BMNezEDvpJ2ulElaJPMu7NjVELYDvRTCPm11oNF\nJQeGAvggRozxKjYJdvNUPB3dkcUGWDqOKEKNVhifKx0pv8CPxhEpJuQablYTSGsc\naJImaUNtrNth2XHuABAyIOswkqStNWT32CYC+Nnx8TV569mEr9RmWsxZOQKBgHYd\nJULiQ0GdaTlr3Qum1bpMS9yZpjIsO7Bz09qh72w4DQChRbYW5coua8NtK4NqHExa\n9RSrW/Bec5WHtcq/CPWSUjLlelsuxP/Bu2KdtOHaleQhSaSP1oGwvytIP24AW/5e\nhiO4VQYqY6sMvYNLta0mHbhBtjwTj/G0nf9lCJ99AoGADE2VHB5MF2u2Lk9E8h3U\n2VY1iULkl7cNGyuBonmIc4eZs8utY+Bpj+Qdp1OHJO89bZkDL6Hmb6ODwRnqo3wE\n1rxK63p6uVcXapcb0mqr0E5yztVPOwBKST0+fLtaT9K/Q+5ZeMl2cdoKzSvJCqJK\nTt/iDjyUcBP1dz9J1W8RBp4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "finance-recorde-bot-tele@sylvan-weft-489806-d3.iam.gserviceaccount.com",
+  "client_id": "118376324867494549633",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/finance-recorde-bot-tele%40sylvan-weft-489806-d3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
