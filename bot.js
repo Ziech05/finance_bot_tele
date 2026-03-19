@@ -23,8 +23,13 @@ const bot = new TelegramBot(process.env.BOT_TOKEN, { polling: true });
 
 const ADMIN_ID = 960957528;
 
+const credentials = JSON.parse(process.env.GOOGLE_SERVICE_ACCOUNT);
+
+// FIX newline issue
+credentials.private_key = credentials.private_key.replace(/\\n/g, "\n");
+
 const auth = new google.auth.GoogleAuth({
-  credentials: JSON.parse(process.env.GOOGLE_SERVICE_ACCOUNT),
+  credentials: credentials,
   scopes: ["https://www.googleapis.com/auth/spreadsheets"],
 });
 
