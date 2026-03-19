@@ -406,24 +406,23 @@ Total pengeluaran per kategori
 
 FITUR TAMBAHAN
 
-/grafik
-Menampilkan grafik pengeluaran
-
 /export_excel
 Export laporan ke Excel
 
 /export_pdf
 Export laporan ke PDF
 
-ADMIN
-/users
-Melihat jumlah pengguna bot
-
 /status
 Cek status bot
 
 /help
 Menampilkan panduan bot`;
+
+  //   /grafik
+  // Menampilkan grafik pengeluaran
+  // ADMIN
+  // /users
+  // Melihat jumlah pengguna bot
 
   bot.sendMessage(chatId, pesan);
 });
